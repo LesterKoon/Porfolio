@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lesterkoon&label=Profile%20views&color=0e75b6&style=flat" alt="lesterkoon" /> </p>
 
-- 🌱 I’m currently learning **Data Science: Foundations using R Specialization**
+- 🎓 I’m currently learning **Data Science: Foundations using R Specialization**
+
+- 📧 How to reach me **lester.koon.zm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
