@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Lester</h1>
-<h3 align="center">A 2nd Year Computer Science Student currently seeking for internship</h3>
+<h3 align="center">A 2nd Year Computer Science Student currently seeking for an internship</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lesterkoon&label=Profile%20views&color=0e75b6&style=flat" alt="lesterkoon" /> </p>
 
